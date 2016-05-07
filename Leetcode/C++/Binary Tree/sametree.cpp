@@ -7,7 +7,7 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
- // recursive
+ 
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
